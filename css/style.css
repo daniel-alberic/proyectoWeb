@@ -71,7 +71,7 @@
 }
 
 .boton:hover {
-    background-color: var(--colorSecundario);
+    background-color: var(--colorTerciario);
     color: #fff;
 }
 
