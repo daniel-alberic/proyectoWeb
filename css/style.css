@@ -32,32 +32,6 @@
     margin-top: -14px;
 }
 
-.titulo-4,
-.titulo-3 {
-    font-family: 'Poppins';
-    font-size: 2em;
-    font-weight: 600;
-    margin: 30px;
-}
-
-.titulo-3 {
-    color: var(--colorPrimario);
-    margin-top: -14px;
-}
-
-.parrafo {
-    font-family: 'Poppins';
-    font-size: 1em;
-    text-align: justify;
-    line-height: 1.5;
-    margin-bottom: 1em;
-    margin-top: 2em;
-}
-
-.titulo-4 {
-    margin-top: 30px;
-    padding-top: 20px;
-}
 
 .boton {
     background-color: var(--colorPrimario);
