@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #f31616;
+    font-family: "Poppins";
+
+}
+
+.titulo-1, .titulo-2 {
+    color: #fff;
+    margin: 20px;
+
+}
+
+.titulo-2 {
+    font-weight: 300;
+}
+
+.titulo-1 {
+    margin-bottom: 50px;
+    }
+
+
+h6, p {
+    color: #fff;
+}
